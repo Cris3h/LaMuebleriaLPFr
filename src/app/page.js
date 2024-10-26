@@ -1,7 +1,10 @@
-import Image from "next/image";
+
+import LoginCard from "../components/LoginCard";
 
 export default function Home() {
   return (
-    <h1>HOLA!</h1>
+    <>
+      <LoginCard />
+    </>
   );
 }

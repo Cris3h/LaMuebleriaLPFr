@@ -1,0 +1,1 @@
+export const SERVER_URL = process.env.PUBLIC_NEXT_SERVER_URL;
